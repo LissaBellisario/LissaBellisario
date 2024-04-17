@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, muito prazer me chamo Lissa 😁
+## Bem-vindo(a) ao meu perfil 🩷
 
  <div>
    <a href="https://github.com/LissaBellisario">
